@@ -19,10 +19,10 @@ You are not allowed to directly copy code from online or others. You are not all
 3. The **final deliverable** is a final project presentation, which should cover all the content you discuss in the final report. 
 
 ## Data
-	* **title**: the title of a news article
-	* **text**: the text of the article
-	* **subject**: the subject of the news article
-	* **date**: the published date of the article
-	* **label**: a label that marks the article as fake or real
-		* fake
-		* real
+	*title*: the title of a news article
+	*text*: the text of the article
+	*subject*: the subject of the news article
+	*date*: the published date of the article
+	*label*: a label that marks the article as fake or real
+		- fake
+		- real

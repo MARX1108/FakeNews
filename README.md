@@ -1,5 +1,6 @@
 # Fake News Detection
 ## Share Docs
+https://docs.google.com/presentation/d/1k-ZUt_yghFjiI5PhvpD_m8Pxq4qjRHxFbej8_4r5T_Q/edit?usp=sharing
 
 ## Overview
 You need to implement at least **two** machine learning algorithms to solve the problem, report their performance and analyze their results
